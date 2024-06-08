@@ -1,26 +1,23 @@
 from setuptools import setup, find_packages
 
 VERSION = '1.0'
-DESCRIPTION = 'My first Python package'
-LONG_DESCRIPTION = 'My first Python package with a slightly longer description'
+DESCRIPTION = 'Simple functions for working with time'
+LONG_DESCRIPTION = "Functions for working with time. There aren't any dependencies yet."
 
-# Setting up
 setup(
-    # the name must match the folder name 'verysimplemodule'
-    name="verysimplemodule",
+    name="time-functions",
     version=VERSION,
     author="@michaelrex2012",
-    author_email="<youremail@email.com>",
+    author_email="<michaelgiu2012@outlook.com>",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
 
-    keywords=['python', 'first package'],
+    keywords=['python', 'time', 'basic'],
     classifiers=[
-        "Development Status :: 3 - Alpha",
-        "Intended Audience :: Education",
-        "Programming Language :: Python :: 2",
+        "Development Status :: 1 - Release",
+        "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
