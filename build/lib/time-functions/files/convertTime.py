@@ -1,4 +1,4 @@
-# Michael Giurgescu
+# @michaelrex2012
 # 6/7/2024
 # Adds ConvertTime() function
 

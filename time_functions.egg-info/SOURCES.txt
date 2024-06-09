@@ -1,3 +1,4 @@
+LICENSE
 setup.py
 time-functions/__init__.py
 time-functions/files/__init__.py
