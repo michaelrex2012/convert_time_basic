@@ -1,6 +1,0 @@
-LICENSE
-setup.py
-time_functions_1.0.1.egg-info/PKG-INFO
-time_functions_1.0.1.egg-info/SOURCES.txt
-time_functions_1.0.1.egg-info/dependency_links.txt
-time_functions_1.0.1.egg-info/top_level.txt
