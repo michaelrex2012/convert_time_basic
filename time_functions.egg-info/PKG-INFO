@@ -5,7 +5,6 @@ Summary: Simple functions for working with time
 Author: @michaelrex2012
 Author-email: <michaelgiu2012@outlook.com>
 Keywords: python,time,basic
-Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: MacOS :: MacOS X
