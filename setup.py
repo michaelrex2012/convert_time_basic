@@ -7,7 +7,7 @@ LONG_DESCRIPTION = ("# time-functions"
                     "***"
                     "## Install and Update"
                     "Install this package with:"
-                    "> ")
+                    "> python -m pip install time-functions")
 
 setup(
     name="time-functions",
