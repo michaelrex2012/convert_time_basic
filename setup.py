@@ -1,8 +1,13 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0'
+VERSION = '1.0.1'
 DESCRIPTION = 'Simple functions for working with time'
-LONG_DESCRIPTION = "Functions for working with time. There aren't any dependencies yet."
+LONG_DESCRIPTION = ("# time-functions"
+                    "Functions for working with time. There aren't any dependencies yet."
+                    "***"
+                    "## Install and Update"
+                    "Install this package with:"
+                    "> ")
 
 setup(
     name="time-functions",
@@ -13,10 +18,11 @@ setup(
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
+    license="MIT",
+    url="https://github.com/michaelrex2012/time-functions",
 
     keywords=['python', 'time', 'basic'],
     classifiers=[
-        "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: MacOS :: MacOS X",
