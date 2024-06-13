@@ -20,6 +20,6 @@ def convertTime(time, inputType, outputType):
         print(time)
         print("In Minutes")
     if inputType != "minutes" and inputType != "hours":
-        print("inputType must be 'minutes' or 'hours'")
+        print("inputType must be minutes or hours")
     if outputType != "minutes" and outputType != "hours":
-        print("outputType must be 'minutes' or 'hours'")
+        print("outputType must be minutes or hours")

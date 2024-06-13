@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0.4'
+VERSION = '1.0.5'
 DESCRIPTION = 'Simple functions for working with time'
 LONG_DESCRIPTION = "Simple functions for working with time. There aren't any dependencies yet."
 
