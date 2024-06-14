@@ -15,4 +15,4 @@ Keeping time-functions up to date is easy too:
 - convertTime()
 - stress()
 
-See (wiki)[https://github.com/michaelrex2012/time-functions/wiki] for more info!
+See [wiki](https://github.com/michaelrex2012/time-functions/wiki) for more info!
