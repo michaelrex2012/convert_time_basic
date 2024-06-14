@@ -1,0 +1,20 @@
+  on:
+    release:
+      types: [published]
+
+  permissions:
+    contents: read
+
+  jobs:
+    test-program:
+      runs-on: windows-latest
+
+      steps:
+        - uses: actions/checkout@v4
+        - name: Set up Python
+          uses: actions/setup-python@v3
+          with:
+            python-version: '3.12'
+        - name: Test
+          run: |
+            python time_functions/__init__.py
