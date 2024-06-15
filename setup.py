@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0.6'
+VERSION = '2.0'
 DESCRIPTION = 'Simple functions for working with time'
 LONG_DESCRIPTION = "Simple functions for working with time. There aren't any dependencies yet."
 
@@ -12,7 +12,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['alive-progress'],
     license="MIT",
     url="https://github.com/michaelrex2012/time-functions",
 

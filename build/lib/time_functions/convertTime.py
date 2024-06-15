@@ -2,10 +2,7 @@
 # 6/7/2024
 # Adds ConvertTime() function
 
-def convertTime(time, inputType, outputType):
-    time = int(time)
-    inputType = str(inputType)
-    outputType = str(outputType)
+def convertTime(time: int, inputType: str, outputType: str):
 
     if inputType == "minutes" and outputType == "hours":
         print(time / 60)
