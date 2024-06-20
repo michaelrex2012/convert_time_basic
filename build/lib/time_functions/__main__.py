@@ -7,8 +7,8 @@ def main():  # needed for console script
     print("Welcome to time-functions!")
     print("--------------------------")
     print("Commands:")
-    print("    list <time_functions.list>")
-    print("    stress <time_functions.stress>")
+    print("    list <time_functions.cli.list>")
+    print("    stress <time_functions.cli.stress>")
 
 
 if __name__ == "__main__":
