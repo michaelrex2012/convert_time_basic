@@ -1,8 +1,8 @@
+# time-functions v2.1
 >  [!WARNING]
 >  This python package is no longer maintained,  
 >  I may do very rare updates if I feel like.  
->  Pease use the newest version, `2.0`.
-# time-functions v2.0
+>  Pease use the newest version, `2.1`.
 ## Overview
 Welcome to the time-functions github repo. This package helps you work time with functions.
 ## Installing
